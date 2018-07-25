@@ -1,0 +1,2 @@
+﻿
+restart-computer -force
